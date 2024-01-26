@@ -9,7 +9,7 @@ function Hero() {
             Welcome to Rest In Protein
           </h1>
           <p className="max-w-[500px] mb-6 font-semibold text-gray-100 lg:mb-8 md:text-lg lg:text-xl">
-            Elevate Your Fitness Journey with Premium Protein Supplements
+            Elevate Your Fitness Journey with Premium Protein
           </p>
           <Link to="products/Protein%20Powder">
             <button className="inline-flex uppercase items-center justify-center px-8 py-3 text-base font-bold text-center text-blue-500 border border-blue-500 rounded-lg hover:bg-blue-500  hover:text-white focus:ring-4 focus:ring-gray-100 ">
